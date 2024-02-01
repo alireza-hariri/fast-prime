@@ -1,7 +1,7 @@
 
 ## prime-benchmark <i>(Python vs C)</i>
 
-inspired by [this repoistory](https://github.com/tsoding/prime-benchmark), here I conducted a basic performance comparison betweenand C and Python with the same prime finding bechmark. the task is to find first 1e+7 primes.
+inspired by [this repoistory](https://github.com/tsoding/prime-benchmark), here I conducted a basic performance comparison betweenand C and Python with the same task. the task is to find first 1e+7 primes.
 
 ### final results
 | code | Machine-1 Runtime | Machine-2 Runtime |
